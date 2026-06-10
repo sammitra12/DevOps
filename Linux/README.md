@@ -2,63 +2,6 @@
 
 Comprehensive syllabus covering Linux fundamentals, administration, networking, shell scripting, storage management, and interview preparation.
 
-### Course Overview
-
-Modules by Learning Area
-
-Foundations & Installation
-
-2 modules
-
-File System & Fundamentals
-
-2 modules
-
-Administration & Scripting
-
-2 modules
-
-Networking & Storage
-
-2 modules
-
-Career Preparation
-
-2 modules
-
-Course Distribution
-
-The 10 modules are evenly split across five learning areas.
-
-Foundations & Installation
-
-2 modules
-
-20%
-
-File System & Fundamentals
-
-2 modules
-
-20%
-
-Administration & Scripting
-
-2 modules
-
-20%
-
-Networking & Storage
-
-2 modules
-
-20%
-
-Career Preparation
-
-2 modules
-
-20%
 
 ### Module 1 – Understanding Linux Concepts
 
