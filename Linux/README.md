@@ -1,5 +1,5 @@
 ### Complete Linux Training Course to Get Your Dream IT Job
-
+[Udemy Course](https://schaefflerindia.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)
 Comprehensive syllabus covering Linux fundamentals, administration, networking, shell scripting, storage management, and interview preparation.
 
 
